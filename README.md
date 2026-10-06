@@ -57,7 +57,7 @@ The project is based on a challenge by **Codebasics**. The data model, DAX measu
 
 - **KPI cards** for Revenue, RevPAR, DSRN, Occupancy, ADR and Realization
 - **Revenue by category** donut chart (Luxury vs Business)
-- **Trend chart** of RevPAR, ADR and Occupancy by week
+- **Trend chart** of RevPAR, ADR, and Occupancy by week
 - **Booking platform view** comparing Realization % and ADR
 - **Property table** with Revenue, RevPAR, Occupancy, ADR and DSRN for every property
 - **Slicers** for City, Room Class, Month/Year and Week Number
@@ -74,7 +74,7 @@ The project is based on a challenge by **Codebasics**. The data model, DAX measu
 
 1. **Luxury drives revenue.** Luxury hotels bring in about 62% of total revenue, with Business at 38%.
 2. **Mumbai leads.** Mumbai properties dominate the top of the revenue and ADR rankings, with Atliq Exotica and Atliq Palace the biggest earners.
-3. **Occupancy is a weak spot.** Overall occupancy is 57.87%, and some properties (for example Atliq Seasons and Atliq Bay in Mumbai) sit below 45%, leaving a lot of unsold capacity.
+3. **Occupancy is a weak spot.** Overall occupancy is 57.87%, and some properties (for example, Atliq Seasons and Atliq Bay in Mumbai) sit below 45%, leaving a lot of unsold capacity.
 4. **Realization is similar across platforms.** Every booking platform sits close to 70%, so cancellations look like a chain-wide issue and not a problem with one channel.
 5. **ADR varies more by platform than realization does.** Some channels earn a noticeably higher average rate, which suggests where to focus partnerships and pricing.
 6. **Trends are stable.** ADR stays almost flat from May to July, while RevPAR moves with occupancy.
@@ -107,17 +107,12 @@ The project is based on a challenge by **Codebasics**. The data model, DAX measu
 └── GuestLens_Dashboard.pbix
 ```
 
-## Live Dashboard
-
-[View the Power BI report](YOUR-POWER-BI-LINK-HERE)
-
 ## Acknowledgments
 
-- Codebasics, for the challenge, dataset and problem statement.
+- Codebasics, for the challenge, dataset, and problem statement.
 
 ## Connect With Me
 
-- LinkedIn: [YOUR-NAME](YOUR-LINKEDIN-URL)
-- GitHub: [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+- LinkedIn: [Ashutosh Bhardwaj]((https://www.linkedin.com/in/ashu-bhardwaj555))
 
 Thank you for visiting!
