@@ -113,6 +113,6 @@ The project is based on a challenge by **Codebasics**. The data model, DAX measu
 
 ## Connect With Me
 
-- LinkedIn: [Ashutosh Bhardwaj](https://www.linkedin.com/in/ashu-bhardwaj555))
+- LinkedIn: [Ashutosh Bhardwaj](https://www.linkedin.com/in/ashu-bhardwaj555)
 
 Thank you for visiting!
